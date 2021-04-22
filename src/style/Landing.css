@@ -1,0 +1,27 @@
+.landing-wrapper {
+
+}
+
+.landing-title {
+    border: 1px solid #eee;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.landing-description {
+    border: 1px solid #eee;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.landing-nav {
+    border: 1px solid #eee;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    padding: 12px;
+}

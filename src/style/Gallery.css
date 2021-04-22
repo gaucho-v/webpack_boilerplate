@@ -1,0 +1,34 @@
+.gallery-nav {
+    border: 1px solid #eee;
+    max-width: 200px;
+    padding: 4px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.gallery-title {
+    border: 1px solid #eee;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 24px;
+}
+
+.gallery-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.gallery-item {
+    width: 320px;
+    height: 240px;
+    border: 1px solid #eee;
+    border-radius: 16px;
+}
+
+.gallery-item div {
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+    border-radius: 16px;
+}
